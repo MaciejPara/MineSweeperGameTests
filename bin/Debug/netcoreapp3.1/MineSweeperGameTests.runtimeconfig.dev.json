@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\cieni\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\cieni\\.nuget\\packages"
-    ]
-  }
-}
